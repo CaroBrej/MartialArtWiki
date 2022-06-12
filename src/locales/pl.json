@@ -1,0 +1,162 @@
+{
+  "navbar": {
+    "home": "Główna",
+    "about": "Informacje",
+    "martialart": "Sport walki",
+    "box": "Boks"
+  },
+  "homeview": {
+    "what": "Co tu znajdziesz?",
+    "whattext": "Jest to strona wiki na temat sportów walki. Znajdziesz tutaj informacje dotyczące konkretnych sportów. Layout strony podczas tworzenia byłwzorowany na innych stronach wiki by użytkownik łatwo mógł się odnaleźć.",
+    "who": "Kim jest autor?",
+    "whotext": "Jestem osobą ćwiczącą sporty walki ponad połowe swojego życia. Ponadto bardzo mnie interesuje analizowanie walki, a mój styl walki okreslić bardziej technicznym.",
+    "why": "Dlaczego powstała?",
+    "whytext": "Strona powstała jako projekt na studia oraz aby polepszyć umiejętności programowania.",
+    "extra": "Dodatkowe informacje",
+    "extratext": "Życzę miłej lektury."
+  },
+  "aboutview": {
+    "how": "Jak jest zbudowana strona",
+    "howtext": "Strona opiera się głównie o framework Vue w wersji trzeciej.",
+    "plugins": "Jakie dodatki",
+    "pluginstext": "Za pomocą router'a zrobione jest by strona była SPA natomiast i18n pozwala na to by w łątwy sposób korzystać z wiecej niż jednego języka.",
+    "color": "Kolorystyka",
+    "colortext": "Wybrana kolorystyka może powodować, że strona wydaje się starsza. Ale pomimo to kolorystyka została taka gdyz jest przyjemna dla oczu i ze względu na swoje stonowane kolory mniej je męczy.",
+    "extras": "Dodatkowe informacje",
+    "extrastext": "Jeśli przypadkowo znalazłeś tą stronę proszę o wyrozumiałość w razie zainteresowania tematyka zapraszam do dalszego zgłębiania wiedzy w bardziej szczegółowych źródłach."
+  },
+  "martialartview": {
+    "shortdescription": "Krótki opis",
+    "content": "Spis treści",
+    "history": "Historia",
+    "longdescription": "Długi opis",
+    "funfact": "Ciekawostki",
+    "characters": "Znane postacie",
+    "name": "Nazwa:",
+    "year": "Rok powstania:",
+    "author": "Założyciel",
+    "style": "Styl:",
+    "type": "Typ:",
+    "kind": "Rodzaj:"
+  },
+  "karateview": {
+    "shortdescription": "Karate Kyokushin to sztuka walki stworzona przez Masutatsu Oyame. Około roku 1963 uznana na świecie. Sport jest w pełni amatorski i opiera sie o stójke. Uznawany jest za najtwardsze karate na świecie.",
+    "history": "Założycielem był Masutatsu Oyama, który to z pochodzenia jest koreańczykiem. Sztuka walki podczas powstawania czerpała inspiracje nie tylko z karate ale również innych sportów takich jak judo czy szermierka. Masutatsu Oyama po długim czasie spędzonym na życiu w górach Chiba stworzył owy styl karate. Kyokushin szybko zdobywał nowy zwolenników widząc osiagnięcia Oyamy, który to gołymi rękami pokonał byka, stoczył 300 pojedynków w 3 dni, a w ciągu roku przyjął 270 propozycji pojedynku. Stworzona Międzynarodowa Organizacja Kyokushin-kaikan (w skrócie IKO) do momentu śmierci Oyamy (1994 rok) była największą organizacją sztuk walki na świecie. Nowym sukcesorem na mocy testamentu był Akiyoshi Shokei Matsui, którego nie wszyscy uznali za godnego następce co doprowadziło do rozłamu w organizacji. Obecnie istnieje wiele organizacji pochądzących od tego karate które nieraz posiadaja też nieco inne nazwy np. Shinkyokushin, Oyama Karate, World Kyokushin Budokai (WKB) czy International Federation of Karate (IFK).",
+    "longdescription": "Sztuka walki charakteryzuje sie bardziej dynamicznymi walkami niż zwyczajowe sztuki walki. Jest to uzasadnione zasadami wktórych to zawodnicy nie mogą uderzeć ręką na wysokość głowy. Za to zawodnicy junior mają cienkie ochraniacze na pięści oraz golenia, a zawodnicy senior walczą już bez ochraniaczy. Najlepsi zawodnicy są przyzwyczajeni do długich wymian technik między nimi, które nie raz przyjmują jedynie na napięte mięśnie. Pomimo swojej wytrzymałości muszą rozpoznawać, podczas zaciętej wymiany na ciosy, która technika jest na tyle niebezpieczna że nalezy ją obronić gdyż moment nieuwagi może doprowadzić do końca walki przed czasem. Wielu zawodników, którzy ćwiczyli karate kyokushin a następnie przeszli do innych sportów walki takich jak np. kick-boxing czy MMA jest znana czesto z tego, że bardzo dobrze wykonują techniki nożne, nawet jeśli w gronie karateków tak by nie byli. Pokazuje to że techniczny aspekt karaate jest bardzo zaawansowany. Ponadto zawodnicy ćwiczący karate charakteryzują się bardzo silną wolą walki. Ze względu ze jest to sztuka walki ma to też w sobie element kulturowy, który doprowadza ze ćwiczący ma wiekszy szacunek do swoich przeciwników jak i zachowuje się spokojnieji nie ulega łatwo prowokacjom.",
+    "funfact": {
+      "one": "Stopnie karate mogę się nieco różnić w zależności od kraju i organizacji.",
+      "two": "Przeprowadzany jest test 100 kumite który polega na odbyciu 100 walk 1 dnia.",
+      "three": "Historia Masutatsu Oyamy została przedstawiona w filmie Fighter in the Wind.",
+      "four": "Jin Kazama z gry Tekken ma ruchy wzorowane na Karate. Kyokushin pojawia sie również w innych postaciach z serii Tekken z rodziny Kazama i Mishima."
+    },
+    "characters": {
+      "one": "Andy Hug - szwajcarski zawodnik osiągnął wiele sukcesów w karate jak i mistrzostwo K-1 World Gp w 1996.",
+      "two": "Semmy Schilt - holenderski zawodnik karate, kickboxingu i MMA. Czterokrotny zwycięzca K-1 World Grand Prix(2005-2007,2009).",
+      "three": "Georges St-Pierre - kanadyjski zawodnik MMA dwukrotny zdobywca mistrzowskiego pasa UFC w wadze półśredniej (2006,2007) oraz wagi średniej (2017)."
+    },
+    "sidebox": {
+      "name": "Karate Kyokushin",
+      "year": "ok. 1963",
+      "author": "Masutatsu Oyama",
+      "style": "stójka",
+      "type": "sztuka walki",
+      "kind": "amatorkski"
+    }
+  },
+  "boxview": {
+    "shortdescription": "Boks to sport walki znany od lat, który swoje korzenie ma jeszcze przed jego powstaniem jako oficialny sport (ok 1719). Założycielem pierwszej akademi bosku był James Figg. Sport ten w pełni opiera sie o stójkę i jest jednym z najpopularniejszych sportów na świecie.",
+    "history": "Boks jest najstarszym sportem walki swoją historą siega czasów starożytności, w których to już odbywały sie walki pięściarskie. Lecz z powodu braku ustalenia zasad pojawiało się wiele wypadków śmiertelnych. Około roku 1719 James Figg założył pierwszą akademie boksu. Walczący tam nie nosili rękawic a walczyli do momentu utraty sił bądź nieprzytomności. Jack Broughton, który później zastąpił Figga i jako pierwszy skodyfikował zasady sportu, które w I połowie XIX wieku zostały zastąpione przez London Prize Ring Rules. W 1867 wprowadzono rękawice a w 1889 stały sie one wymogiem.",
+    "longdescription": "Boks jako sport walki jest czyms czego nie trzeba nikomu przedstawiać. Jest on podstawą niemal że wszsytkich innych sportów walki opierających się na stójce. Zawodnicy bokserscy posiadają niesamowitą kondycję dziki, której są wstanie walczyć wiele rund. Pomimo iż boks w swoim założeniu ma głównie udeżenia rękoma to nie to sprawia, że profesjonalni bokserzy są niesamowici. To ich praca na nogach balans oraz czucie walki sprawia, że wydają się widzieć 3 sekundy w przód. Choć w początkach znane były 2 style bokserów outbokserzy i inbokserzy z czego jeden opierał się na technicznym trzymaniu na dystans rywala a drugi na ciągłej walce w krótkim dystansie, obecnie każdy z profesjonalnych bokserów jest w stanie robić jedno i drugie i właśnie to czyni ich tak silnymi.",
+    "funfact": {
+      "one": "Trener znajdujący się w narożniku może w każdym momencie przerwać walkę rzucając na ring biały ręcznik, co oznacza poddanie się.",
+      "two": "W zawodowym boksie istnieje 17 kategorii wagowych. Najlżejsza słomkowa do 47,6 kg, a najcięższa ciężka powyżej 90,7 kg.",
+      "three": "Boks jest sportem igrzysk olimpijskich od 1904 roku.",
+      "four": "Rocky Marciano to jedyny bokser, który zakończył kariere będąc mistrzem świata nie przegrywając ani razu(ani nawet nie remisując) walki. Jego rekord to 49 zwycięstw w tym 43 KO, 0 remisów, 0 porażek."
+    },
+    "characters": {
+      "one": "Muhammad Ali - amerykański bokser jako pierwszy pięściarz w historii zdobył trzy kortnie tytuł mistrza świata wszechwag i skutecznie obronił go dziewiętnaście razy. Jego wynik kariery to 56 zwycięstw (37 KO), 5 porażek i 0 remisów.",
+      "two": "Sugar Ray Robinson - amerykański bokser. Zawodowy mistrz świata w wadze półśredniej i pięciokrotny mistrz świata w wadze średniej. Uznawany przez wielu historyków boksu, dziennikarzy, trenerów, jak i innych pięściarzy za najwybitniejszego boksera w historii. Ponadto zawalczył 200 walk zawodowych, z których wygrał 173 (108 KO), 19 przegrał, 6 zremisował a 2 się nie odbyły.",
+      "three": "Ołeksandr Ołeksandrowycz Usyk - ukraiński bokser o licznych tytułach, obecny mistrz świata wagi ciężkiej organizacji WBA, WBO, IBF i IBO. Wygrał 19 (13 KO), przegrał 0 zremisował 0."
+    },
+    "sidebox": {
+      "name": "Boks",
+      "year": "ok. 1719",
+      "author": "James Figg",
+      "style": "stójka",
+      "type": "sport walki",
+      "kind": "zawodowy"
+    }
+  },
+  "bjjview": {
+    "shortdescription": "Brazylijskie jiu-jitsu to sztuka walki z powstała oko 1919 roku przez Maeda Mitsuyo, która głwnie opiera sie o walkę w parterze przy pomocy wszelkiego rodzaju dźwigni. Jedna na najgroźniejszysz sztuk walki podczas walk jeden na jednego.",
+    "history": "Jednym z uczniów Jigoro Kano był Maeda Mitsuyo, posiadacz 5 dana w judo który wcześniej startował w profesjonalnych zawodach zapaśniczych. Około roku 1919 uczył on Brazylijczyka Carlosa Gracie. Maeda sztukę, której go uczył określał jiu-jitsu. W 1924 Gracie otworzył akademie sztuk walki. Do jego uczniów należał jego brat Helio, który stał sie potem znanym brazylijskim zapaśnikiem. Następnie synowie Helio Royce, Rorion i Rickson kontynuowali pracę i w latach 90 opracowali znzne na cały świecie Gracie Jiu-Jitsu (inna nazwa na BJJ), w którym by wygraćtrzeba było doprowadzić by przeciwnik sie poddał bądź stracił przytomność (nie dało sie wygrać na punkty).",
+    "longdescription": "BJJ jest to jest zdecydowanie jedną z najgoźniejszych sztuk walki podczas potyczki w parterze. Zawodnicy walczą tam troche jakby grali w szachu na zmiane kontrując swoje ruchy. O ile jeśli posiadamy kilkuletnie doświadczenie to możemy być w stanie sie całkiem długo bronić w parterze przed profesjonalistą, o tyle jeśli sie z niego nie wydostaniemy to on nas w końcu dopadnie. Najwiekszy kłopot jest taki gdy nie mamy dużego doświadczenia w takich walkach w tym momencie leżac na ziemi będziemy bezradnie próbować sie bronić tracąc wszsytkie siły a nasz przeciwnik szybko i bezproblemowo doprowadzi nas do poddania walki.",
+    "funfact": {
+      "one": "Obecnie stosowane sa 2 formuły walki gi i no gi czyli w tradycyjnym stroju albo w stroju sportowym.",
+      "two": "Techniki BJJ zostały wykorzystane w bojowym systemy walki wręcz armii USA.",
+      "three": "Popularność zyskała za pomocą skutecznosći w walkach MMA.",
+      "four": "Zasady by nie punktować trzymania czy rzutów były wprowadzone by ograniczyć możliwości wygrania japońskich mistrzów judo."
+    },
+    "characters": {
+      "one": "Alexandre Xande Ribeiro - brazylijski grappler oraz zawodnik mieszanych sztuk walki (MMA), wielokrotny mistrz świata w brazylijskim jiu-jitsu i submission fightingu.",
+      "two": "Marcelo Garcia - brazylijski zawodnik submission fightingu oraz brazylijskiego jiu-jitsu. Czterokrotny Mistrz Świata ADCC w submission fightingu oraz pięciokrotny mistrz świata IBJJF w brazylijskim jiu-jitsu.",
+      "three": "Roger Gracie Gomez - brazylijski grappler oraz zawodnik mieszanych sztuk walki (MMA) wagi półciężkiej, wielokrotny mistrz świata w brazylijskim jiu-jitsu i submission fightingu. Mistrz świata ONE Championship w wadze półciężkiej."
+    },
+    "sidebox": {
+      "name": "Brazylijskie jiu-jitsu",
+      "year": "ok. 1919",
+      "author": "Carols Gracie",
+      "style": "parter, stójka",
+      "type": "Sztuka walki",
+      "kind": "amatorski"
+    }
+  },
+  "judoview": {
+    "shortdescription": "Judo to sztuka walki stworzona przez Jigoro Kano około roku 1882. Skupia się na obaleniu przeciwnika i kontroli jego w parterze. Nieliczny sport jak na sztuki walki który stał sie sportem zawodowym.",
+    "history": "Jigoro Kano w wieku 20 lat był dosyć drobnej postury i często mu dokuczano. Za namową przyjaciela rodziny zaczą trenować jiu-jutsu. W wieku 22 lat zaczął opracowywać włąsne techniki i udoskonalać te, które już znał. Zaczął prowadzićswoją szkołę sztuk walki, która stała się pierwszą i zarazem największą szkołą judo na śiwecie. Z czasem judo zaczęło sie rozpowszechniać a Jigoro rozpowszechniał je na całym świecie. Do 1952 roku judo trenowało ponad 6 mln ludzi w ponad 30 krajach na całym świecie.",
+    "longdescription": "Judo to jedna z starszych i najbardziej znanych sztuk walki. Wiele sztuk walki czerpało inspiracje z tego sportu, który to idealnie za pomocą rzutów przenosi stójkę do parteru i tam wykańcza przeciwnika. Najlepsi zawodnicy potrafią wykorzystać moment nieuwagi albo utraty równowagi by w mgnieniu oka obalić swojego rywala potężnym rzutem o ziemie. Przeciwnik zazwyczaj po idealnym rzucie traci juz wole walki gdy judoka jest gotowy dalej ją kontynuować gdy ten jeszcze próbuje wrócić do siebie.",
+    "funfact": {
+      "one": "Judo dało narodziny sambo bardzo znanej w rosji sztuce walki.",
+      "two": "Najwyższym pas w judo to czerwony a nie czarny jak zwykle w sztukach walki bywa.",
+      "three": "By zdawać egzaminy w judo nalezy startować w zawodach sportowych i odnosić w nich sukcesy.",
+      "four": "W 1964 judo stało sie sportem olimpijskim dla mężczyzn a w 1988 również dla kobiet."
+    },
+    "characters": {
+      "one": "Julia Kowalczyk - polska judoczka, brązowa medalistka mistrzostw świata, srebrna medalistka mistrzostw Europy.",
+      "two": "Hitoshi Saito - japoński judoka który zdobył złoto na mistrzostwach olimpijskich dwa razy pod rząd.",
+      "three": "Tadahiro Nomura - japoński judoka, złoty medalista Igrzysk Olimpijskich w Atlancie, Igrzysk Olimpijskich w Sydney i Igrzysk Olimpijskich w Atenach.Na Mistrzostwach Świata zdobył dwa medale: złoty w Paryżu (1997) i brązowy w Osace (2003)."
+    },
+    "sidebox": {
+      "name": "Judo",
+      "year": "ok. 1882",
+      "author": "Jigoro Kano",
+      "style": "parter, stójka",
+      "type": "sztuka walki",
+      "kind": "zawodowy"
+    }
+  },
+  "kickboxingview": {
+    "shortdescription": "Kick-boxing to sport walki opracowany przez Osamu Naguchiego w latach 60. Opiera sie na uderzeniach jak i kopnięciach w stójce.",
+    "history": "W japoni gdzie promotor bokserski zainspirowany walkami, które widział w Tailandii chciał zaszczepić boks tajksi w japonii. W tym celu sprowadził trzech tajskich bokserów aby walczyli z trzema karatekami z kyokushinu. Karatecy wówczas wygrali 2 z 3 walk. Przy okazji Noguchi i Kenji Kurosaki (obaj instruktorzy Kyokushin) przestudiowali boks tajski i opracowali nowy sport, łączący obie sztuki walki, który Noguchi nazwał kick-boxingiem. W 1993 roku założono organizacje K-1.",
+    "longdescription": "Kick-boxing sport, który łączy w sobie boks oraz kopnięcia. Sport walki, który jest jednym z baridzej popularnych na świecie ze względu na swoją uniwersalność. Wielu zawodników z różnych sportów z czasem przechodzi do kick-boxingu szukajać mozliwości które coraz bardziej przypominaja realną walkę a po kilku latach zaczynają swoje starty w MMA. Profesjonalni zawodnicy charakteryzują się bardzo dobrymi umiejętnościami bokserskimi jak i wplatywaniem nieprzewidywanych kopnięć do walki.",
+    "funfact": {
+      "one": "Walki odbywają sie zarazem jak i na macie jak i na ringu.",
+      "two": "Niektóre szkoły kick-boxingowe posiadaja stopnie uczniowskie i stopień mistrzowski (czarny pas).",
+      "three": "W Europie kick-boxing pojawił się w 1970 roku.",
+      "four": "Istnieją 33 kategorie wagowe."
+    },
+    "characters": {
+      "one": "Marek Piotrowski - polski kickbokser i bokser, wielokrotny zawodowy mistrz świata w kick-boxingu, posiadacz 1 Dan Karate Kyokushin. Wygrał 44 walki kick-boxerskie (27 KO) przegrał 2 natomiast w boksie wygrał 21 (11 KO) i nie przegrał ani jednej.",
+      "two": "Giorgio Petrosyan - włoski kick-boxer wagi średniej pochodzenia ormiańskiego. Zawodnik formuły K-1 występujący w K-1 World MAX i Its Showtime, dwukrotny mistrz K-1 MAX (2009–2010) oraz tryumfator turnieju GLORY w wadze lekkiej z 2012.",
+      "three": "Peter Aerts - holenderski kickbokser, trzykrotny mistrz K-1 World Grand Prix (1994, 1995, 1998)."
+    },
+    "sidebox": {
+      "name": "Kick-boxing",
+      "year": "ok. 1960",
+      "author": "Osamu Naguchi",
+      "style": "stójka",
+      "type": "sport walki",
+      "kind": "zawodowy"
+    }
+  }
+}

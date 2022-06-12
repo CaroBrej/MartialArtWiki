@@ -1,0 +1,162 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "martialart": "Martial Art",
+    "box": "Box"
+  },
+  "homeview": {
+    "what": "What will you find here?",
+    "whattext": "This is a martial arts wiki page. Here you will find information about specific sports. The layout of the page was mapped to other wiki pages when it was created so that the user could easily find his way around.",
+    "who": "Who is the author?",
+    "whotext": "I am a person practicing martial arts for over half of my life. In addition, I am very interested in analyzing the fight, and describe my fighting style more technically.",
+    "why": "Why was it established?",
+    "whytext": "The website was created as a project for studies and to improve programming skills.",
+    "extra": "Additional information",
+    "extratext": "I wish you a pleasant reading."
+  },
+  "aboutview": {
+    "how": "How the website is built",
+    "howtext": "The website is based mainly on the third version of the Vue framework.",
+    "plugins": "What extras",
+    "pluginstext": "With a router, the site is made SPA, while i18n allows you to easily use more than one language.",
+    "color": "Color",
+    "colortext": "The selected color scheme may make the website appear older. Nevertheless, the colors remained the same as they are pleasing to the eyes and less tiring due to their subdued colors.",
+    "extras": "Additional information",
+    "extrastext": "If you accidentally found this page, please understand if you are interested in the subject, I invite you to further explore your knowledge in more detailed sources."
+  },
+  "martialartview": {
+    "shortdescription": "Short description",
+    "content": "Content",
+    "history": "History",
+    "longdescription": "Long description",
+    "funfact": "Interesting facts",
+    "characters": "Famous characters",
+    "name": "Name:",
+    "year": "Year of creation:",
+    "author": "Creator",
+    "style": "Style:",
+    "type": "Type:",
+    "kind": "Kind:"
+  },
+  "karateview": {
+    "shortdescription": "Karate Kyokushin is a martial art created by Masutatsu Oyame. Around 1963, recognized in the world. The sport is completely amateur and is based on a stand-up collar. It is considered the hardest karate in the world.",
+    "history": "The founder was Masutatsu Oyama, who is Korean by origin. During its creation, the martial art drew inspiration not only from karate but also from other sports such as judo and fencing. Masutatsu Oyama, after spending a long time living in the Chiba Mountains, created this style of karate. Kyokushin quickly gained new followers seeing the achievements of Oyama, who defeated the bull with his bare hands, fought 300 fights in 3 days, and accepted 270 duel proposals during the year. The established International Kyokushin-kaikan Organization (IKO for short) until the death of Oyama (1994) was the largest martial arts organization in the world. The new successor under the will was Akiyoshi Shokei Matsui, whom not everyone considered a worthy successor, which led to a split in the organization. Currently, there are many organizations derived from this karate, which sometimes also have slightly different names, such as Shinkyokushin, Oyama Karate, World Kyokushin Budokai (WKB) or the International Federation of Karate (IFK).",
+    "longdescription": "The martial art is characterized by more dynamic combat than the usual martial arts. This is justified by the rules in which players cannot hit their heads with their hands. On the other hand, junior players have thin fist and shin protectors, while senior players fight without protectors. The best players are used to long exchanges of techniques between them, which often only take on tense muscles. Despite their endurance, they have to recognize, during a fierce exchange for blows, which technique is so dangerous that it needs to be defended, as a moment of inattention may lead to the end of the fight ahead of time. Many players who practiced kyokushin karate and then switched to other martial arts, such as kick-boxing or MMA, are often known for the fact that they perform leg techniques very well, even if they would not be among karate players. This shows that the technical aspect of karaate is very advanced. In addition, karate players are characterized by a very strong will to fight. Due to the fact that it is a martial art, it also has a cultural element, which makes the practitioner have greater respect for his opponents and behaves calmly and is not easily provoked.",
+    "funfact": {
+      "one": "Karate grades may vary slightly depending on the country and organization.",
+      "two": "There is a 100 kumite test which consists in completing 100 fights in 1 day.",
+      "three": "The story of Masutatsu Oyama was presented in the movie Fighter in the Wind.",
+      "four": "Jin Kazama from Tekken has movements inspired by Karate. Kyokushin also appears in other Tekken characters from the Kazama and Mishima families."
+    },
+    "characters": {
+      "one": "Andy Hug - Swiss competitor has achieved many successes in karate as well as the K-1 World GP Championship in 1996.",
+      "two": "Semmy Schilt - Dutch karate, kickboxing and MMA fighter. Four-time winner of the K-1 World Grand Prix (2005-2007,2009).",
+      "three": "Georges St-Pierre - Canadian MMA fighter, twice winner of the UFC championship belt in welterweight (2006,2007) and middleweight (2017)."
+    },
+    "sidebox": {
+      "name": "Karate Kyokushin",
+      "year": "around 1963",
+      "author": "Masutatsu Oyama",
+      "style": "stand-up collar",
+      "type": "martial art",
+      "kind": "amateurish"
+    }
+  },
+  "boxview": {
+    "shortdescription": "Boxing is a combat sport known for years, which has its roots even before its creation as an official sport (circa 1719). The founder of the first divine academy was James Figg. This sport is fully based on a stand-up collar and is one of the most popular sports in the world.",
+    "history": "Boxing is the oldest combat sport - its history dates back to antiquity, in which boxing fights were already taking place. But due to the lack of rules being laid down, many fatalities have occurred. Around 1719, James Figg founded the first boxing academy. The fighters there did not wear gloves and fought until they lost their strength or unconscious. Jack Broughton, who later replaced Figga and was the first to codify the rules of sport, which were replaced by the London Prize Ring Rules in the first half of the 19th century. In 1867 gloves were introduced and in 1889 they became a requirement.",
+    "longdescription": "Boxing as a combat sport is something that needs no introduction. It is the basis of almost all other martial arts based on a stand-up collar. Boxing fighters have an amazing wild boar condition, which they are able to fight many rounds. Although boxing in its assumption is mainly punches with hands, this is not what makes professional boxers amazing. It is their work on their feet, the balance and the feeling of the fight that make them seem to see 3 seconds ahead. Although at the beginning there were 2 styles of boxers, outboxers and inboxers, one of which was based on technical keeping at a distance of the opponent and the other on constant fight in a short distance, nowadays each of the professional boxers is able to do both and this is what makes them so strong .",
+    "funfact": {
+      "one": "The coach in the corner may stop the fight at any time by throwing a white towel over the ring, which means surrender.",
+      "two": "There are 17 weight classes in professional boxing. The lightest straw up to 47.6 kg, and the heaviest heavy over 90.7 kg.",
+      "three": "Boxing has been an Olympic sport since 1904.",
+      "four": "Rocky Marciano is the only boxer to end his career as a world champion without losing (or even drawing) a fight. His record is 49 wins, including 43 KOs, 0 draws, 0 defeats."
+    },
+    "characters": {
+      "one": "Muhammad Ali - the American boxer as the first boxer in history, won the title of the all-weight world champion three times and successfully defended it nineteen times. His career score is 56 wins (37 KOs), 5 defeats and 0 draws.",
+      "two": "Sugar Ray Robinson - American boxer. Professional world champion in welterweight and five-time world champion in middleweight. Considered by many boxing historians, journalists, coaches and other boxers as the greatest boxer in history. In addition, he fought 200 professional fights, of which he won 173 (108 KO), lost 19, tied 6 and did not take place 2.",
+      "three": "Oleksandr Oleksandrovych Usyk - Ukrainian boxer with numerous titles, the current world heavyweight champion of WBA, WBO, IBF and IBO. Won 19 (13 KO), lost 0, drew 0."
+    },
+    "sidebox": {
+      "name": "Box",
+      "year": "around 1719",
+      "author": "James Figg",
+      "style": "stand-up collar",
+      "type": "combat sport",
+      "kind": "professional"
+    }
+  },
+  "bjjview": {
+    "shortdescription": "Brazilian jiu-jitsu is a martial art from around 1919 by Maed Mitsuyo, which is mainly based on fighting on the ground using all kinds of levers. One of the most dangerous martial arts in one-on-one fights.",
+    "history": "One of Jigoro Kano's students was Maeda Mitsuyo, a 5th dan holder in judo who previously competed in professional wrestling competitions. Around 1919 he taught the Brazilian Carlos Gracie. Maeda referred to the art he taught him as jiu-jitsu. In 1924, Gracie opened a martial arts academy. Among his students was his brother Helio, who later became a famous Brazilian wrestler. Then the sons of Helio Royce, Rorion and Rickson continued their work and in the 90s developed the world famous Gracie Jiu-Jitsu (another name for BJJ), in which to win you had to make the opponent give up or pass out (you could not win on points) .",
+    "longdescription": "BJJ is by far one of the worst martial arts in a ground skirmish. The players fight there a bit as if they were playing chess in turns, countering their moves. If we have several years of experience, we may be able to defend ourselves against a professional on the ground floor for quite a long time, if we do not get out of him, he will eventually get us. The biggest problem is when we do not have much experience in such fights, at the moment we will be lying on the ground, we will helplessly try to defend ourselves losing all strength and our opponent will lead us to surrender the fight quickly and easily.",
+    "funfact": {
+      "one": "Currently, there are two formulas of fighting gi and nga, i.e. in traditional clothes or in sports clothes.",
+      "two": "BJJ techniques have been used in the US Army's hand-to-hand combat systems.",
+      "three": "Gained popularity by being effective in MMA fights.",
+      "four": "Rules not to score holdings or throws were introduced to limit Japanese judo masters' chances of winning."
+    },
+    "characters": {
+      "one": "Alexandre Xande Ribeiro - Brazilian grappler and mixed martial arts (MMA) fighter, multiple world champion in Brazilian jiu-jitsu and submission fighting.",
+      "two": "Marcelo Garcia - Brazilian submission fighting and Brazilian jiu-jitsu fighter. Four-time ADCC World Champion in submission fighting and five-time IBJJF World Champion in Brazilian Jiu-Jitsu.",
+      "three": "Roger Gracie Gomez - Brazilian grappler and light heavyweight mixed martial arts (MMA) fighter, multiple world champion in Brazilian jiu-jitsu and submission fighting. ONE Championship world champion in light heavyweight."
+    },
+    "sidebox": {
+      "name": "Brazilian jiu-jitsu",
+      "year": "around 1919",
+      "author": "Carols Gracie",
+      "style": "ground floor, stand-up collar",
+      "type": "martial art",
+      "kind": "amateur"
+    }
+  },
+  "judoview": {
+    "shortdescription": "Judo is a martial art created by Jigoro Kano around 1882. It focuses on overthrowing an opponent and controlling him on the ground. A small sport for martial arts that has become a professional sport.",
+    "history": "Jigoro Kano was quite small at the age of 20 and was often teased. At the urging of a family friend, they start training jiu-jutsu. At 22, he began to develop his own techniques and perfect those he already knew. He started running his martial arts school, which became the first and largest judo school in the world. Over time, judo began to spread and Jigoro spread it all over the world. By 1952, judo was trained by over 6 million people in over 30 countries around the world.",
+    "longdescription": "Judo is one of the oldest and most famous martial arts. Many martial arts drew inspiration from this sport, which ideally uses throws to transfer the stand-up to the ground and finish the opponent there. The best players can take advantage of the moment of inattention or loss of balance to knock their rival down with a powerful throw on the ground in the blink of an eye. The opponent usually loses the will to fight after a perfect throw, when the judoka is ready to continue it while he is still trying to come back to himself.",
+    "funfact": {
+      "one": "Judo gave birth to sambo, a very famous martial art in Russia.",
+      "two": "The highest belt in judo is red, not black, as is usually the case in martial arts.",
+      "three": "In order to pass judo exams, one must take part in sports competitions and be successful in them.",
+      "four": "Judo became an Olympic sport for men in 1964 and also for women in 1988."
+    },
+    "characters": {
+      "one": "Julia Kowalczyk - Polish judo, bronze medalist of the world championships, silver medalist of the European championships.",
+      "two": "Hitoshi Saito - Japanese judoka who won gold at the Olympic championships twice in a row.",
+      "three": "Tadahiro Nomura - Japanese judoka, gold medalist of the Olympic Games in Atlanta, Olympic Games in Sydney and Olympic Games in Athens, won two medals at the World Championships: gold in Paris (1997) and bronze in Osaka (2003)."
+    },
+    "sidebox": {
+      "name": "Judo",
+      "year": "around 1882",
+      "author": "Jigoro Kano",
+      "style": "ground floor, stand-up collar",
+      "type": "martial art",
+      "kind": "professional"
+    }
+  },
+  "kickboxingview": {
+    "shortdescription": "Kick-boxing is a combat sport developed by Osamu Naguchi in the 1960s. It is based on punches and kicks while standing up.",
+    "history": "In Japan, where a boxing promoter, inspired by the fights he saw in Thailand, wanted to instill Thai boxing in Japan. To this end, he brought in three Thai boxers to fight the three kyokushin karate fighters. Karatec won 2 out of 3 fights then. On the occasion, Noguchi and Kenji Kurosaki (both Kyokushin instructors) studied Thai boxing and developed a new sport that combines both martial arts, which Noguchi called kickboxing. In 1993, the K-1 organization was founded.",
+    "longdescription": "Kickboxing a sport that combines boxing and kicks. A combat sport that is one of the most popular sports in the world due to its versatility. Many players from various sports over time move to kick-boxing looking for opportunities that more and more resemble a real fight, and after a few years they start their MMA starts. Professional players are characterized by very good boxing skills as well as inserting unforeseen kicks into the fight.",
+    "funfact": {
+      "one": "The fights take place both on the mat and in the ring.",
+      "two": "Some kickboxing schools have student ranks and a master's degree (black belt).",
+      "three": "In Europe, kickboxing appeared in 1970.",
+      "four": "There are 33 weight categories."
+    },
+    "characters": {
+      "one": "Marek Piotrowski - Polish kickboxer and boxer, multiple professional world champion in kickboxing, holder of 1 Dan Karate Kyokushin. He won 44 kick-boxing fights (27 KO), lost 2, while in boxing he won 21 (11 KO) and did not lose a single one.",
+      "two": "Giorgio Petrosyan - Italian middleweight kickboxer of Armenian origin. K-1 rider appearing in K-1 World MAX and Its Showtime, two-time K-1 MAX champion (2009-2010) and winner of the GLORY lightweight tournament in 2012.",
+      "three": "Peter Aerts - Dutch kickboxer, three-time K-1 World Grand Prix champion (1994, 1995, 1998)."
+    },
+    "sidebox": {
+      "name": "Kick-boxing",
+      "year": "around 1960",
+      "author": "Osamu Naguchi",
+      "style": "stand-up collar",
+      "type": "combat sport",
+      "kind": "professional"
+    }
+  }
+}
